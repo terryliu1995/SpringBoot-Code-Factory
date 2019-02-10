@@ -1,4 +1,4 @@
-package com.example.didemo.services;
+package com.example.services;
 
 public interface GreetingRepository {
     String getEnglishGreeting();
