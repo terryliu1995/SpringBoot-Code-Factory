@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.example.didemo", "com.example.services"})
+@ComponentScan(basePackages = {"com.example.didemo"})
 public class DiDemoApplication {
 
 	public static void main(String[] args) {

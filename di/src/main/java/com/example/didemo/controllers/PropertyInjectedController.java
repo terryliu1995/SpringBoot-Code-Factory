@@ -1,6 +1,6 @@
 package com.example.didemo.controllers;
 
-import com.example.services.ConstructorGreetingServiceImpl;
+import com.example.didemo.services.ConstructorGreetingServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
